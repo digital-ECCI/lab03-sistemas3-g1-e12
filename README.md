@@ -26,7 +26,7 @@ HC-SR04 ECHO (5V)
 2. Lógica del Software
 Flujo del Programa
 
-![alt text](mermaid-diagram.png)
+![mermaid-diagrama.png](mermaid-diagram.png)
 
 import RPi.GPIO as GPIO
 import matplotlib.pyplot as plt
